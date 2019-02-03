@@ -1,4 +1,5 @@
 use std::io;
+use sandbox_rust_hello_world::lib::add_float;
 
 fn main() {
   println!("Hello world");
@@ -12,4 +13,6 @@ fn main() {
       .expect("Failed to read line");
 
   println!("Hello, {} !", name);
+
+  println!("1.5 + 2.6 = {}", add_float(1.5, 2.6));
 }
