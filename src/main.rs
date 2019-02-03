@@ -1,5 +1,5 @@
 use std::io;
-use sandbox_rust_hello_world::lib::add_float;
+use sandbox_rust_hello_world::add_float;
 
 fn main() {
   println!("Hello world");
