@@ -1,5 +1,7 @@
 # SANDBOX Rust Hello World
 
+[![Build Status](https://travis-ci.org/kamataryo/sandbox-rust-hello-world.svg?branch=master)](https://travis-ci.org/kamataryo/sandbox-rust-hello-world)
+
 ## Prerequisite
 
 - Rust
