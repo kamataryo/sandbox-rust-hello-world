@@ -1,0 +1,11 @@
+[package]
+name = "sandbox-rust-hello-world"
+version = "0.1.0"
+authors = ["kamataryo <mugil.cephalus+ciconia.local@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "sandbox-rust-hello-world"
+path = "main.rs"
